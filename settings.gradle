@@ -1,0 +1,3 @@
+include ':ApiDemos-19'
+include ':Support4Demos'
+include ':Support7Demos'
